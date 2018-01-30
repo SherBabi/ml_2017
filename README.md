@@ -1,2 +1,2 @@
-# ml_2017
-Machine learning programming assignments of University Koblenz-Landau winter semester 2016/17
+# Machine Learning and Data Mining course assignments and tutorials.
+Pyhon programming assignments and tutorials that were used in Machine Learning and Data Mining course in University Koblenz-Landau.
